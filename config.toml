@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = "https://www.bueneroyr.no/"
 languageCode = 'nb-NO'
 title = 'Buene Røyr og Maskin'
 

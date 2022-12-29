@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="component">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row bg-white border shadow-sm p-4">
+                    <div class="col-lg-6">
+                        <h1>Buene Røyr og Maskin</h1>
+                        <p>Vi kan tilby det meste innan røyrleggjartjenester og mindre gravejobber i Lærdal, Aurland og
+                            Årdal</p>
+                        <p>Nybygg, oppussing, utvendig sanitæranlegg, grøft, små serviceoppdrag</p>
+                        <p>Gratis og uforpliktande synfaring. Arbeid til avtalt tid og pris.</p>
+                        <p>Kontakt oss på <a href="tel:+4748904649">+47 489 04 649</a> eller ring <a href="mailto:kontakt@bueneroyr.no">kontakt@bueneroyr.no</a>
+                        </p>
+                    </div>
+                    <div class="col-lg-6">
+                        {{ partial "components/image.html" (dict "context" . "image_input" "/arbeidsbil_v2.png") }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Buene Røyr og Maskin'
+
+theme = 'boilerplate-hugo-theme'
+
+[imaging]
+  anchor = 'Smart'
+  hint = 'photo'
+  quality = 80
+  resampleFilter = 'MitchellNetravali'
+
+[Params]
+  logo = 'logo.png'

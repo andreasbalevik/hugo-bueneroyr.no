@@ -1,0 +1,9 @@
+[submodule "digdir-hugo-theme"]
+	path = digdir-hugo-theme
+	url = https://github.com/felleslosninger/digdir-hugo-theme
+[submodule "themes/digdir-hugo-theme"]
+	path = themes/digdir-hugo-theme
+	url = https://github.com/felleslosninger/digdir-hugo-theme
+[submodule "themes/boilerplate-hugo-theme"]
+	path = themes/boilerplate-hugo-theme
+	url = https://github.com/andreasbalevik/boilerplate-hugo-theme.git

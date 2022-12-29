@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = ''
+languageCode = 'nb-NO'
 title = 'Buene Røyr og Maskin'
 
 theme = 'boilerplate-hugo-theme'
@@ -12,3 +12,4 @@ theme = 'boilerplate-hugo-theme'
 
 [Params]
   logo = 'logo.png'
+  keywords = ['rørlegger', 'lærdal', 'årdal', 'aurland', 'utleie', 'minigraver']

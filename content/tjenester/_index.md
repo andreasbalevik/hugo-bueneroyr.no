@@ -13,12 +13,11 @@ list:
       - IMG_50931.JPG
       - 2536.JPG
       - 2871.JPG
-      - 22991.JPG
-  - title: Gravemaskin
+
+  - title: Grøfting, drenering
     desc: Grøfting, drenering, opphogging/pigging med minigraver. Arbeid etter avtalt tid og pris.
     images:
-      - minigraver.png
-      - dumper.png
+      - 22991.JPG
       
 ---
 

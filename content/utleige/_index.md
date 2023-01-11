@@ -6,10 +6,10 @@ menu:
     weight: 2
 
 list:
-  - title: Minigravar
+  - title: Utleige minigravar
     images:
       - minigraver.png
-  - title: Beltedumper
+  - title: Utleige beltedumper
     images:
       - dumper.png
 

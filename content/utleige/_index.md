@@ -8,10 +8,10 @@ menu:
 list:
   - title: Utleige minigravar
     images:
-      - minigraver.png
+      - src: minigraver.png
   - title: Utleige beltedumper
     images:
-      - dumper.png
+      - src: dumper.png
 
 ---
 
